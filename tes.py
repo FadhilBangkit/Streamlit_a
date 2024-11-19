@@ -219,7 +219,7 @@ def main():
         st.title('Selamat Mengerjakan Ujian')
         st.session_state.Wajah = False
         st.session_state.Nama = None
-        st.session_state.Mengisi_form = True
+        st.session_state.Mengisi_form = False
     
     if not st.session_state.Mengisi_form:
         form_page()
