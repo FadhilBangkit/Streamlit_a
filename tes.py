@@ -217,7 +217,7 @@ def Mulai_deteksi_wajah(gambar):
 def main():
     if 'Mengisi_form' not in st.session_state:
         st.title('Selamat Mengerjakan Ujian')
-        st.session_state.Wajah = False
+        st.session_state.Wajah = True
         st.session_state.Nama = None
         st.session_state.Mengisi_form = False
     
