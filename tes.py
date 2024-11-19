@@ -107,6 +107,7 @@ Cred_list = [
     "Cred/Cred_M.json"
 ]
 
+url = 'https://drive.google.com/uc?id=1hFoogM9COKuYb4VkL0J6lUy-iwYpDehb&export=download'
 
 
 # if image:
@@ -179,7 +180,7 @@ def tampilkan_gambar(hasil_deteksi, gambar_terdeteksi, gambar_tidak_terdeteksi):
 def mulai_sps():
     scopes = ["https://www.googleapis.com/auth/spreadsheets"]
     Cred_pilihan = random.choice(Cred_list)
-    creds = Credentials.from_service_account_file('TESTA.json', scopes=scopes)
+    creds = Credentials.from_service_account_file(url, scopes=scopes)
     client = gspread.authorize(creds)
     sheet_id = "1F1xTqTI603vxn7-WY7Kg4XN0L62BF43AX5a6RSAA_2Y"
     workbook = client.open_by_key(sheet_id)
