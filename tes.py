@@ -5,6 +5,7 @@ import random
 import gspread
 import time
 import gdown
+import request
 from google.oauth2.service_account import Credentials
 from oauth2client.service_account import ServiceAccountCredentials
 from concurrent.futures import ThreadPoolExecutor
@@ -110,12 +111,17 @@ Cred_list = [
 
 url = 'https://drive.google.com/uc?id=1hFoogM9COKuYb4VkL0J6lUy-iwYpDehb&export=download'
 
-url = 'https://drive.google.com/uc?export=download&id=FILE_ID'
 
-# Unduh file JSON ke direktori lokal
-TESTA = 'TESTA_file.json'
-gdown.download(url, output, quiet=False)
+# Mengunduh kredensial JSON dari Google Drive
+response = requests.get(url)
 
+# Memastikan bahwa permintaan berhasil
+if response.status_code == 200:
+    # Memuat kredensial JSON dari respons
+    TESTA = response.json()
+
+# Menampilkan data JSON yang telah dimuat ke dalam variabel
+print(json_data)
 
 # if image:
 #     st.image(image)
