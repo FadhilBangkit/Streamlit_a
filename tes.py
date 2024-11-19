@@ -4,6 +4,7 @@ import numpy as np
 import random
 import gspread
 import time
+import gdown
 from google.oauth2.service_account import Credentials
 from oauth2client.service_account import ServiceAccountCredentials
 from concurrent.futures import ThreadPoolExecutor
@@ -109,6 +110,12 @@ Cred_list = [
 
 url = 'https://drive.google.com/uc?id=1hFoogM9COKuYb4VkL0J6lUy-iwYpDehb&export=download'
 
+url = 'https://drive.google.com/uc?export=download&id=FILE_ID'
+
+# Unduh file JSON ke direktori lokal
+TESTA = 'TESTA_file.json'
+gdown.download(url, output, quiet=False)
+
 
 # if image:
 #     st.image(image)
@@ -180,7 +187,7 @@ def tampilkan_gambar(hasil_deteksi, gambar_terdeteksi, gambar_tidak_terdeteksi):
 def mulai_sps():
     scopes = ["https://www.googleapis.com/auth/spreadsheets"]
     Cred_pilihan = random.choice(Cred_list)
-    creds = Credentials.from_service_account_file(url, scopes=scopes)
+    creds = Credentials.from_service_account_file(TESTA, scopes=scopes)
     client = gspread.authorize(creds)
     sheet_id = "1F1xTqTI603vxn7-WY7Kg4XN0L62BF43AX5a6RSAA_2Y"
     workbook = client.open_by_key(sheet_id)
