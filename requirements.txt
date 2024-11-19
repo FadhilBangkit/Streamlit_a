@@ -6,3 +6,4 @@ google-auth
 oauth2client
 streamlit-camera-input-live
 gdown
+requests
