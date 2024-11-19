@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "asprak-pik",
+  "private_key_id": "a4d5ecc5d211090b30484fc49776efae0d9a7e36",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDznExRGhuOjJQh\nlBqe74HVJ3EgNUDvOo89O11htJMeCOtTRymzt2bpFfvECspCQx1wifQ420T9231s\njw6zcsdo1smzpK7LoGjVAFWXVAfMwyyEx7zZCQFAdzfzRltFKeD3GgL2wJ/OaXcj\nfQdmYKGA31+cAEBszevuhv/Qk1l84xKq1rvn7EH0l3JGDaLjK1UEByOkwaSY6b1B\nwqBKKO7jzn6HoVvgfCmyYuC+W6Pd+Hd0A74rEEnjn1xaM7nid2d3Lv7c9dYYfnIy\nNlmua3Qea40C6wIA9XB8yOYEwLPkE5vaSVhjJGHx0XQSpM989WzsLuKbKIOsxLop\nv9A8SQpnAgMBAAECggEAGWr3c4bb1TXJxu8jD+5Bh7ID1a54xf1AMM1e4vDqYLnh\ng+Dq8vtx22QVztCpZdyG19UtDDmkqzAZmBgdGpAhSkkO5pWKP2jPR1ovlAiKf8zl\nej008RhFbyqBRfrTTxYdiOrH4GMcyXarnaJQAViXwVCNM0O7dR7PPSYMzwBw19zN\nWSEksdgA2QQDMlsPXIWFal7b4lNsSDxxumpR/WY75zBSgSf9dt9rNLjNKloNeVQp\nxwYSjMpBiJW3kWFB7Beq7R4TJk5bZ574JFKNxFaoYIyx45DxxngUwHNoDMeW4x9Q\nzl0difgoDipqJaXnsCh85+YOgXoeJVPU7YPv3pWQgQKBgQD9x+3UBpgkReK2BTdr\nI0MB8MU8pYsugLbwFJ1ygXWSKQbO3pw2VxzJJUaKjeSk1ZEsLXTHtDiMGcezDgTg\nu0gaI5ojVk3hqi+zhKXv3Pe0ojNdyLB59/6Fd5JVuQC01jjEcifF3W/+pTN6Nijr\n1jUI5KQgBhpfuYaQmyQiObyaIQKBgQD1vZpxUKSBraAi+AxJ4p3mgnAEJ3Jp+jiR\nd96OTytDqvkKbdmLtap5esQP/NRyltSlYatIHw7polYLt9LG+4wvRZ37e9FMCUlJ\nrH1kPnSLee7dYOh+Bgy8bYJRsV6rna73iloumPWHYJdgEHIa+23pqwjV6uoQgNVm\n1G9NLRljhwKBgQC6MnoYWk4+LthL3D/w54o+Xj0YZg1cLSwLsdRjMwDkIB3SohnS\n9M819ZdwCPN8zQUaeK955oymnjOa9+o0SLR6GSz6SFQUAh3FhMmK14EWkvtFD/4L\nPx0LJ9PB+V6/T32PBIKR9go5t1OxkxMrFZsLz1Vr+Y5YNXK5nlpAkkQCgQKBgQDK\n4dXPde/LbGhIVpf2rBUHCWun0lWAr2fimZ9xyGUEwfRIKvcvhDWRg8y5EljnniVD\nwQYjThkGxNLba9GmHGnZYVWUGd5rM0OBgtonV/TqbinKNcbcvOvo6VRtU83ATDf3\nAQ+BZyFWumVfl1RNeIV/JIjv67mBFIybEAowImrSowKBgQD4peYpNcvk0kuSi9v6\n9av7IGNM54I/+3U+UX/NGCX+aojgoWMWomQ1OKLEiZgxUlgKRtyKqMVHJdOqYTJf\nZeNDmUGbUEA4ZZzGLV3O7QOZVdhSSX6hPGtiKRbfLsRCXMb7DBPIEmZtt/yKe/Sb\nuxjrDDQ64UDpmF5GsTAssfenTQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "asprak@asprak-pik.iam.gserviceaccount.com",
+  "client_id": "101535428327479759552",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asprak%40asprak-pik.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

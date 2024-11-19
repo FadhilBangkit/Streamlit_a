@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "idyllic-depth-441806-m2",
+  "private_key_id": "c0684eee6cff84e309589c282bd566b513c96f54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuYT6ehA/wrZYL\nFP3wPmkS8owEAEg0nVTSGY4xPNnBTwPfuq1pOTo3Igp9KjkPGu6HrDC1XqV8A6CN\nPwApw5upm7VJ1f8Y89aWnpoyl6EnB0c9UpOq/85vsH6QP2zjmFDVfoPBvX+k/kEO\nhSusQesFnTZzrZWY6nOtT+uLiPcdvhFnHMyLQd1SgORSe6iWvPn7CMOdYGONAutr\n7Jsh61n23wG2vxH3xhXfYGlxS7pdEvRA/xGO4scP9oATH+NtiCm5DcgkpmuxHSdu\nR/OxkYvOhTkE0w30D2wS1q1wBqPP+MFsa2nQb6Y/tMhjwzw8SiTLZYHCHH8x3cCk\n5LJX6eG5AgMBAAECggEAOGPYBRi9st3ffHvwVmVIQ0lN/+k7cFBEYqDC+6cq37k2\njn3mn/VSnwuSCsHBq+HQqu0C31PY/c6Kd8KcweSwjNt+d38NPDt19EUbpiqkgWN4\nJRt0B0MrtbCEbQ8lnj/eO/vqjZdDFM7nqNNluRGj96/MMQI8MzP17mC+0eObzfDk\nwrxsWDDKGtMLzma8bc4/9ZxGQivBeCCCNqPVoYMBGxRfFOOQ9GICIxCZxOuoCWCh\nU3iTpV30Xk+RbrkLeNvmIngs/6esYdy3DUVaFsGq/m79gd1Z/Ismy8ZVCZ22BUAh\nCzXEeJvwxZHOPbvWfMAXPS2X2HwjUDYLUqDry914lQKBgQDlQKVv5jev4twFoK5G\nG0oS0p4IEnMml59U1Jhktufac2LtvaijDbOs3ijeJU2t4feeVk2ZKynxrQrh/Ue2\npi8ROVsUiC6/fdQ/sJjHn8BJG2mtFhP69RZG0efoshQ1CwMKzzQLPmcmPkjDBaMN\n6nKVbYYrHUveJnQdQNadUcsqzwKBgQDCuab6aDfSe4EVOleKHtbpYdcAm49ZTGKz\nzCbgBYOtiQwsBSKWS0OBxEqVVzWEpZ5RGIk1QKkAJP1gnxwSOq2guf1iHPXtPeOu\nLrgO66lOATnFJ55BkEZ/j4IOPwHKQnnGRu9bA7hZI8fyrJrhpO394OBN9S4Hp8bl\ntgX1p/gs9wKBgQCdvBEYIOqH1itUo+3Extn8gXXCUA9yqjgygeQox8BXCbUzpp71\nMWRCuMidsET2MtfQ1cimbpB5fHpUa5SAE2+nBjOouNqRXt4+xB8amswOgRIAyYQN\n07v0FlDeRkipBl6dfVttsQ3/vjMKHELIPFuCfM0ntQySWRrjVc1UiQak+QKBgDUD\n/M1CYKhizcMszjahrNt/stzMfZvPazQOiisF9VLi9Dhr8X2/4hJLkg7U3pJN0Su9\nJWYlQ53xdDbBOxBPf4Q5/x2eSuqbpgh/WcdeLAs71DG0Vqb9E+SY+szMJL2fma39\nFB/QhHlof4C3s7dpgw5TEl7HORAGguV5yGeYor4DAoGAIAEm5r7VN8FqPgiqVgwP\neOpUb8cl//wc7eEKABWkbuSXi3G0XcMDwl9rElf934/V8TUi4Tp7oyCzJYswTRFH\nLnnd1/N+XOpoLIg6mDU3PHeDUOXC5g3PLJEiogde0pA8aa0W/FVbGs9kY+7y5yzB\nNKPvspVOKJ3h6VbyDhbO1IE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoringbangkit@idyllic-depth-441806-m2.iam.gserviceaccount.com",
+  "client_id": "114037421993784903459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoringbangkit%40idyllic-depth-441806-m2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

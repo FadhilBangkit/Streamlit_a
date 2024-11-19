@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gifted-chimera-441806-j0",
+  "private_key_id": "b3ed3d42599af629cff36cc52f13e288abaab6d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDE3daWbzNlN+Xn\nWttSf/ZVqTLP3cDEBneIeETttgta0BKLNGd1PJ3/nZQElpheT+oGLWqCKW6ljBRP\nKy8TkzEhlNtjmzd4UHy5wrKGW2k3FzCt6lc/xv2vUFCLB2O83rXow9gtk8nowReJ\n6JmRfeo+ktiNnP4ToimWj+lmVVr3CqAwwxlMRNCikf6ijjcr9jEIZ+tnn0+MdAIT\n1rjfMGbOmFwvc08YbFLiS8vogyXvkG8myAF4sBuw0c+6bmzH8Zy+y906L3A47QpN\ncLyvmmOUT74uKBjd2gXJt0KIeU53afVLpPpfXIwrtstlcgRqj+oTUUuPW4eLOWCm\n7FZ7nqPXAgMBAAECggEABkIN1lYuZyszbG43ps2fih71sqR+qLYsUMYpKfjnL0zw\nkfepl3eRh2fxP4LkBBEWEOBnttlUHzOu2TEEiMkQi9wJOO2ptT7lwBsmBREp013L\npw1AfPjTGDwW21yLeWkHYlQh1QBFYyTXatBeKI3wOmrJ/7JvMNBiWKfP4d6YiveZ\nEk/3f38Vw+oZlUocBFQIwDfcrhe8LQNacMoeMI0k1n3Av9hZu1K4dNruVplIw29j\nARBmOrsXUt7cD1L4zgieDc6gaXnjuyNb/zrmGvqAcRrn2CJe7MJ8U+BJmUxk+NOa\nih060DdJ3BMAEZZ5pbpExpWSaid1mlHUtGla8WXsMQKBgQD1+8XsT9/okKek2VsR\nFgwfasbTS0JkBo/pCqbtFa5lXhRHBOzVCiNYJLJR90RcgiLunlzePfnHtTaNfCxg\nCwlGtIHFUniSLJYDQoHZhUeDVj7j/elAd+Kg4p7csA3hhUd+ngNmfKrVT6o9lGIu\n0fgyNSj2seV2UDIMeHaFsoQqpwKBgQDM4g0cu6/FWxuzTocTjOUIgPWWiY3Utc+3\npYv8EjzP5sdX4QRvAw89XsXmIuMF8ccaUDyHf1CQE6s3pxv6NOYpoKy9nHLs0LG4\n7Y12Ubsp0sWRmOCscI65j5CK6IfA5W5+rPisS+r0qVcv7IuPVPG0TDeRqfPH5a7W\nqiVVXl9TUQKBgQDOxa+gb5w2cLKbfiJxAGl8V1N+9fp+/o0mRk//Z4RLrYO6F0fF\n5VnElERZZlNOuA4JK5HBN7Opzohm8oSSz3QivUWAy0yTA2uunc9tO/3bRzpiiGP0\nT1JwD0+fD1b7xf9NTiJpmk44NVlTnlHSLapG+izPAsdyZwNLPE/VHzS+bQKBgH/A\nwI5XFd4I1nfzElUFeNbZmslYUkD9cV1A882lDZhRfaF1ZM9X6AvLabj7rfXJ8e2d\ndHDE2VZNfWjBYbedfpscXjoJMLwr0XXPYnMRuZP1ok4MNqQvtz9LnsSPA/8q0MBa\nWOEOoZ4XbY8rf0ZLoD9dexTwFVtjA6dFBux5YRVRAoGBAPF5GestA44t/hcl7Khd\nWVBLzSjndic4NbPO1oPGyn+GgOwbmsZLYqRgc9ohvoamn0zgY5mxjgB/zlGQuO4U\nzO5ac6ANTUl26Rp0jjcXc4hTQNsT3gjQHUeXSSumC/wSFxGjcDpGyur4L/xJIUID\nNZQOdbcb9T3l4ez2fDcHgw9U\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoringiot14039@gifted-chimera-441806-j0.iam.gserviceaccount.com",
+  "client_id": "114973133058840948103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoringiot14039%40gifted-chimera-441806-j0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

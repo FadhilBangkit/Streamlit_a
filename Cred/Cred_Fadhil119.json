@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "monitoring-iot-441806",
+  "private_key_id": "7cf7ce8ee007f9213c2642b0dc4ec7ff7b62a20d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEihkE53AxdKxn\nM6zr5ZXK8vIBAUQyLFV9ph8vXqfze16Cmx6QhvwdFZHR+ACv5aXLTRMMw5pOcMtL\ng3QEoRBN8/rhGIm0CkKGooi8h1590LZnsX/E0IM6AuAFatCi1bfn00F+O+xGVLew\ncZ/z82EgwiDLU/Zq9zmSluJ7FDsFaqLq97UHiHhH1ygHFhm7NXjc7q9YQ0p+fwZu\ntzM4x8+XIOOc+kKt+NyOycZODjg5goKXlTVGNqHt7MTWzLG+8blHeNNsRvusAknc\nabuHI1duz0c9mWYXIa/3bTukeRudEgnmRE9YKMzt/VIdh1fo0wkUXtbdsri64xx5\nl5OwGIc9AgMBAAECggEAMIejBuV4/BVBrtgBNlyB4NOdcycTZkoxL+3xnFpEoWgQ\nnbJc2TYjkbDuSUjyLnzHtAwLjKbN9tl+MV67qpr0sjLw+1z6P6Ua6TDAD8FjUTDU\noYUgNgKArLXiCCRocRTRrOIqtVdpj7JCi0R7SRsLHDIjM+G/Iol6Q1qTgO2tZzgP\nTD3fDdMefkkbRFreFsyEFuCOkNXIao0JYhED7vHpyEF2vHgisR6WsDiGonfvl6Q/\nLHYzJRQDS0kKzylEkLY/mUcv83GpgXD2RFd9eEViwlO7JJkO9E0mbnL4CJQ4Hwj/\nhM6RXNShgGzaoffyuju4u8vyRIYhvWJd66bkL5SREQKBgQDiFspbBGUtGFFn8e/+\nb38rbkTDStY96xllerbrt55MEbV2W7p7LxbpUMbajvTQsAJozpeKT97LpW5rZ+ss\nGodYkuHdxQff8OT7vGCGSsbg4LjPwAfZLumickIVfNAiqxzsJGOjHgCu3Hhrp9JN\nWJJ5DXWW8j9ubf6q4nKRQLLfFQKBgQDeioTEDDMhx4n3JKhlu2eJ5XVaxnY6eI9S\nfIqS6sCSNPsv6F51cYbG9VlKQKsP4ztBxg7w630H5YFYfRf2IqykFqKBFbZzrZjg\nWTIk382gugLLrU8NVR6AI6R+ROP99r2zEL6iYZA2eiTh7CGReEVC9C2Ms07uxqts\n2ia6fwPRiQKBgQDLFDORS8Jhni1JE81Bmv78kOCdFrSYC3vVZkO2OUmsBGAdv0ki\n6upGinMD0FLgvKh9YcxGxXVXMPKc8UwRYobeLZlKLXfkVCoqYEvHdJVtWw1GNrQW\nBgiADOeFC4adDVw+VHVXCFUOvCRCdwz0wrFWoJtWCaSmWZDeB+dmx1mj/QKBgQCK\nDcRvGmJeAjtEZilRcwC4OvCib5vIiiHfOgN9QMRV7ygkgDKZCORjaLELrzJvmLea\nBhQewPe/flDPZEsJFlmjMad+DMoy2O6NvsesuGoH210AnXL9AmD5fSL+ch493mOw\nQiMA+SVNplhbDvGEHOhasL/RGStOVVDjJjIAX+sugQKBgCQvGNg6XUY88HTzwQ6K\nTtrc4sx/wMt8b5BOKaeE0NGs0hO6Hg2FpNnf1epHb8l02PxjmxXYJ3/sUC5+hVmN\nJ4gBy54Gnh6fuwbmyswoo9rLpEjB0Bjlmd0rzwJRGG8HCZ/Kp5A51fSiBsVXmbGK\ntMyHPOYQ0Z0YaSDjVfLT4ceF\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoringtanaman@monitoring-iot-441806.iam.gserviceaccount.com",
+  "client_id": "101011431717739386601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoringtanaman%40monitoring-iot-441806.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

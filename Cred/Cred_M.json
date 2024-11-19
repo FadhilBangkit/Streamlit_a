@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "monitoringiot-marlyn",
+  "private_key_id": "c71b969473c966b6a3b98f475112f59149b03779",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeXEb1h1LKpZPE\nqvJNfFlglVT6DZBJwWwh5If6EGVlOe0pG0rC9BhKlbSo9DQ+Y/9GeqUlh1/Kq8xJ\nF45joXnl8W40JwPSVvimH8GZeqwFOphl+uH01mwFYbXdOciwBxF8fff9wlLuBh2l\n421jJp/0sqP36lfrUriVJhg9N3J3S3w9vejpDP9f0sWsw2dalvoknlQEAI7WtCuO\nr6Dg47HSUzTV4haWGxmKAjzYSblDiR6lQm8Pb77joBKhBjw+qwBZcJqnqcSjkulD\nmyNMJg/F6MaoVq0gytxKGdTVU4GhN74FZdQvxkXIIi1ZFdG9FEVIoaUxIFQIrPPC\n4fhCyGQXAgMBAAECggEAETeh1Lq3GvvllPxWW8D+oVbwZj9om0bsUBheBadtXr7C\n34qYFkTJCf2SJsxmNwz9iYF2yHMaIcQ2nGZzP2HPCbELdPVzn5V/yJAApy8vL2Ja\nL2bs1Nx7N2/oK0/yVzEYNZt8hZpwacXrHfNxcSuXOIOI+utU+RYv+1yo8KmWnbbr\nfb9zkYPO1XnZbmdhH6tsY7DogzjDJ4GHEFlLmJIHAnWuO2ufa3jQpecDZCMI9Bar\nG0B11mclDTwtZpMIZ3H1y3Fl+ylFpHGuL4bTvh2PNcN05nHAHqtQx8XQm2ncXTCh\nIVJD1UaNRx4RsDei/bjeyxjUPcg6WAxzjhGCFE5MAQKBgQDPhI30c53FteFGq8B0\nYGY0eVmSrKtztW4eEtM74qX0GhFFUoaO/PMX4j8TMVV4SGmyFubfXv+K8tiKsw7o\nLUYEBlwjQrCU6KKhsealmCBGAUGoYfcGYJ5AyV5bhQYNHVr3CFOmSXL9kFD3LFPp\nnWKW0vJ1by+MBOYRm04DCq0jPQKBgQDDW6seAT3GjUWntqKVNw6dRQrU7eW9OmYa\no1IxYZWEQ9+cgOVLwCRQQ6eehWHFg/NhkJ/t6OHNpsVsnwEjNmMrLB1r1FRd/e7Y\nATzOATKH7Jra2nIxqGLa0SqAjQ1eCMLHHC68kyx72MA5fm80Yuib7AVwGEuB34JA\nPmPbVWkJ4wKBgDkG+mPFKgRdOS1MobTZkPy2pHD0VqGTqFFHZxk77dMpHrnoNeYx\niTR1DlRd6FkHvVQdixCzcJJkrjFfh6cyWd1dShC+kPw6+gZpdzLmnWffjIWTdmkg\nQB0ZuX55DfKosIjWlvZJlPotoLJsUhsPDzrXeZ3gEjbuWbNY9JVNZ8sZAoGBAJYn\nKwrQ4W5uvw79LVGLE8yFeKHYiDA9ZqUqys3xtz4F/SUJXTQv5rlahscstc1ecf6X\nbpUp3gR3Hl8yh2lNMEPKkIKEnKPxvVaA/P9JpFEc5pk4NXU9e128TvKnd5LDIRJw\n8us2I4a9PmHyb/7P1wGhEzzpL4APDsnaKl4285kJAoGBAJOJ45v0t0Qbom1UtE0n\n6VQhj5OQC+pxhDGqEKY7sD5URIH+apP8VW5PPa7Bkn4isW78d3xTshhcdp5Le6ZD\ntMXtTtZf0yazlg8dP+jNJcZR0F2+3igo1DLziwNEotk+0qVIaUkUF3LV05yr1pdG\nYQv7eCiJSW+fGJECYFOweoeB\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoringiotm@monitoringiot-marlyn.iam.gserviceaccount.com",
+  "client_id": "109708654177669768245",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoringiotm%40monitoringiot-marlyn.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
