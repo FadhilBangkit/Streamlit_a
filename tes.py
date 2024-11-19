@@ -179,7 +179,7 @@ def tampilkan_gambar(hasil_deteksi, gambar_terdeteksi, gambar_tidak_terdeteksi):
 def mulai_sps():
     scopes = ["https://www.googleapis.com/auth/spreadsheets"]
     Cred_pilihan = random.choice(Cred_list)
-    creds = Credentials.from_service_account_file(Cred_pilihan, scopes=scopes)
+    creds = Credentials.from_service_account_file('TESTA.json', scopes=scopes)
     client = gspread.authorize(creds)
     sheet_id = "1F1xTqTI603vxn7-WY7Kg4XN0L62BF43AX5a6RSAA_2Y"
     workbook = client.open_by_key(sheet_id)
