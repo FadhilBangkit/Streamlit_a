@@ -5,7 +5,7 @@ import random
 import gspread
 import time
 import gdown
-import request
+import requests
 from google.oauth2.service_account import Credentials
 from oauth2client.service_account import ServiceAccountCredentials
 from concurrent.futures import ThreadPoolExecutor
