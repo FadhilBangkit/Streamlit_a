@@ -121,7 +121,7 @@ if response.status_code == 200:
     TESTA = response.json()
 
 # Menampilkan data JSON yang telah dimuat ke dalam variabel
-print(json_data)
+print(TESTA)
 
 # if image:
 #     st.image(image)
