@@ -234,7 +234,6 @@ def main():
             st.session_state.Wajah, gambar_terdeteksi = Mulai_deteksi_wajah(gambar_decode)
             st.title('Halo Badut🤡!')
             tampilkan_warning(st.session_state.Wajah)
-            tampilkan_gambar(st.session_state.Wajah, gambar_terdeteksi, gambar)
             st.header('Kumpulan doa dapat Nilai Baik')
             Sukses_ujian()
             
