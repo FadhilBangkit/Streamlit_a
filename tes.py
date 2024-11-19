@@ -227,7 +227,7 @@ def main():
     print(st.session_state.Mengisi_form)
 
     if st.session_state['Mengisi_form']:
-        gambar = camera_input_live(debounce=300, show_controls=False)
+        gambar = camera_input_live(debounce=2000, show_controls=False)
         if gambar:
             gambar_value = gambar.getvalue()
             gambar_decode = cv2.imdecode(np.frombuffer(gambar_value, np.uint8), cv2.IMREAD_COLOR)
@@ -235,7 +235,7 @@ def main():
             st.session_state.Wajah, gambar_terdeteksi = Mulai_deteksi_wajah(gambar_handphone)
             st.title('Halo Badut🤡!')
             tampilkan_warning(st.session_state.Wajah)
-            # tampilkan_gambar(st.session_state.Wajah, gambar_terdeteksi, gambar_handphone)
+            tampilkan_gambar(st.session_state.Wajah, gambar_terdeteksi, gambar_handphone)
             st.header('Kumpulan doa dapat Nilai Baik')
             Sukses_ujian()
             
