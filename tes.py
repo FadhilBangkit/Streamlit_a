@@ -231,10 +231,11 @@ def main():
         if gambar:
             gambar_value = gambar.getvalue()
             gambar_decode = cv2.imdecode(np.frombuffer(gambar_value, np.uint8), cv2.IMREAD_COLOR)
-            st.session_state.Wajah, gambar_terdeteksi = Mulai_deteksi_wajah(gambar_decode)
+            gambar_handphone = cv2.resize(gambar_decode, (640, 360), interpolation=cv2.INTER_LINEAR)
+            st.session_state.Wajah, gambar_terdeteksi = Mulai_deteksi_wajah(gambar_handphone)
             st.title('Halo Badut🤡!')
             tampilkan_warning(st.session_state.Wajah)
-            tampilkan_gambar(st.session_state.Wajah, gambar_terdeteksi, gambar)
+            tampilkan_gambar(st.session_state.Wajah, gambar_terdeteksi, gambar_handphone)
             st.header('Kumpulan doa dapat Nilai Baik')
             Sukses_ujian()
             
