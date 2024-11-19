@@ -227,7 +227,7 @@ def main():
     print(st.session_state.Mengisi_form)
 
     if st.session_state['Mengisi_form']:
-        gambar = camera_input_live(debounce=500, show_controls=False)
+        gambar = camera_input_live(debounce=1000, show_controls=False)
         if gambar:
             gambar_value = gambar.getvalue()
             gambar_decode = cv2.imdecode(np.frombuffer(gambar_value, np.uint8), cv2.IMREAD_COLOR)
