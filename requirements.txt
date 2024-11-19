@@ -4,4 +4,4 @@ numpy
 gspread
 google-auth
 oauth2client
-camera-input-live
+streamlit-camera-input-live
