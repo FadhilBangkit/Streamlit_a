@@ -231,7 +231,7 @@ def main():
         if gambar:
             gambar_value = gambar.getvalue()
             gambar_decode = cv2.imdecode(np.frombuffer(gambar_value, np.uint8), cv2.IMREAD_COLOR)
-            gambar_handphone = cv2.resize(gambar_decode, (640, 360), interpolation=cv2.INTER_LINEAR)
+            gambar_handphone = cv2.resize(gambar_decode, (360, 640), interpolation=cv2.INTER_LINEAR)
             st.session_state.Wajah, gambar_terdeteksi = Mulai_deteksi_wajah(gambar_handphone)
             st.title('Halo Badut🤡!')
             tampilkan_warning(st.session_state.Wajah)
