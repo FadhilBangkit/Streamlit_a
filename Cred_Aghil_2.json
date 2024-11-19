@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "asprak",
+  "private_key_id": "5fa17db491826fc63b4fc47a78b7d3c6341e184c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7j65JusID7cjY\nf6F1Xhdo1GzFGYMDAkP351YBJWvtmZYj7o08g0QjihjoFHOlHP7L69Fwjt2VEeZv\nGnRNEZHUHcenHIixmWrXYAsX32RAO6brJYLvLwI0IeKXlFM2EiHWxvtK9Od5+awd\nIFYEHYPc8ek4kg0E5kn3XMt+L3oMirM2lETuLHPWy+jtpZy4ErJFQ06eurLysfbx\nuky+VmNEgk5rtAZPcYwtOcPVQZ5WN51tmUigNTIi36+JaZB/2eAe8m0D69Xnct0F\n3RsLM0Nk+zHoVHeQz89snLvA2U41vp6JrTXVPsxd2t22wXwLjj8AjYyUD1hSD7S8\nUvMlN1JrAgMBAAECggEACewY8UeS+fg7VtCxru7SWDZcprSpzJ/zDotLbnYXVpN4\ncOAu0pOzKBonJSfn0kVNaWZJRyYXrMosoZYJrwYN6+XDaSDGTnbqQwiOra2gtREy\nzF/IpHSdLjrYrOIo4MRmy+Ds7FM2Z6qAo23Rfxg8oJSfnOGFFMxF/3MGRN+oGj+o\nuyLAkTejAofkp+Iu1rH6FpDBtE9s7igvEYc3T+I4Vtdko+nCrs2RSeFYAmsVrEC4\nZpV42kmjqtUtYONpxPBse3dQFCUEQKr6st7DwCWO+Z1svc8DRPs8Ci6rzemUUK5Y\n94bEydNXg5aOO+FU3Sf2ttg1/8uuFjQXLUUHGgR7AQKBgQD9fJi8BG2FettCCbHa\nWS0uV9GwGlX9eiPtBqwT/fZ4CmtKeCbJ8EQe6L3rWwk0AFUjTYfQeOKxKNg6a1Sq\nRJpDQ5Lz/rQoULfpVR1VedNBXZzlLIN1GXF/6zVvcHh3+6eYXgxWjh4boqRcDD2e\nlaSDklTf/8v37WVO5UyMHrO2gQKBgQC9a8BWe7Xn7DqNEDGVQ5b3chH6S05kR16e\nD4LTSguUBLlaGVPkiRl7x97fNt9I73DdRMaQduJrYX03Fn3ZlDXVuJwg0qF1yi3R\ng5lnSC1+NpiITfZK5x+eoVLFlqUMHDXEY54w03xyfXpzmr7hoifEO0coewiu5Iqx\nWcdj673K6wKBgQCojoCVjbAyMSa5O+8bDW+AwH67xldlzSE0jNpCFP8ehXcgttK8\nN1tk3kjjxs5Q2OPELNrh4nCDc3CNMC/FZQbbMYT3YGf14u7YZnOyEedLMO+SaM4l\nQLz7XbFToAtLZXjlVayIpcoZgEYguzcCS+lwYA62QMcl3qMeGlWTWxsPgQKBgHUA\ndpi054KvLudtRkM9saV8p1AkbfKRBwe46wVZ6lbuqBLYLDKw4LXNmoPkH/2sMNns\nHn6jgG31lOOPGANqgepWktHPaP4Z+T09/WaHddpNHOCsz2Iq6yQP39G+oIofbrK1\nGcRtDaSmjxmTTy6N++RA/U4q2Q02i9jKbNfyiJQrAoGAGBbDipndf5vRi4/1/uFl\nn+V6W9VRIX+n+HBX8ZrW1Lhwp5VYSUvoLacPSoMNQ1pJ0BtLQrPIQLvzMsT/sJ1D\n1kvOmygP8gQYxAx0FgcETFiy3bnQSiKOqfyPCh3qmGck6SE3GTtDqd1AvNIfu8mg\nkATHbXHy4dEkOMHPko2fOV4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoringtanaman1@asprak.iam.gserviceaccount.com",
+  "client_id": "112498560261325443035",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoringtanaman1%40asprak.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
