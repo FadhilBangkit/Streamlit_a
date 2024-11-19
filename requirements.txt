@@ -1,7 +1,6 @@
 streamlit
 opencv-python-headless
 numpy
-random
 gspread
 google-auth
 oauth2client
